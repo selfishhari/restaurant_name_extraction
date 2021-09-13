@@ -1,4 +1,4 @@
-# resturant_name_extraction
+# restaurant_name_extraction
 NER
 
 ## Experiments:
